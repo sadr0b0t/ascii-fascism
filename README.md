@@ -7,5 +7,5 @@ ASCII-фашист — разработчик (индивидуальный пр
 В случае с англоязычной статьей вы получите аккуратную ссылку, по одному виду которой можно догадаться, о чем статья: https://en.wikipedia.org/wiki/Fascism
 В случае с русскоязычной статьей вы получите нечитаемое месево, которое, тем не менее, работает как ссылка: https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%88%D0%B8%D0%B7%D0%BC
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bundesarchiv_Bild_146-1969-065-24%2C_M%C3%BCnchener_Abkommen%2C_Ankunft_Mussolini.jpg" width=800>]
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bundesarchiv_Bild_146-1969-065-24%2C_M%C3%BCnchener_Abkommen%2C_Ankunft_Mussolini.jpg" width=800>
 
